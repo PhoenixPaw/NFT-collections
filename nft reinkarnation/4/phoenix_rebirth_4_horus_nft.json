@@ -1,0 +1,45 @@
+{
+  "name": "Phoenix Rebirth #4 \u2014 Horus",
+  "description": "This NFT represents Horus reborn as a phoenix deity in the Egyptian pantheon.",
+  "image": "https://example.com/nft/egypt/horus.png",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Egyptian"
+    },
+    {
+      "trait_type": "God Name",
+      "value": "Horus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Divine Essence"
+    },
+    {
+      "trait_type": "Plumage",
+      "value": "Mystic Feathers"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Divine Crown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Anime / Dark Fantasy"
+    }
+  ],
+  "links": {
+    "telegram": "https://t.me/PhoenixPaw",
+    "twitter": "https://x.com/PawPhoenixoff?s=09",
+    "tiktok": "https://www.tiktok.com/@phoenix_ownerden?_t=8siJCXaw3k8&_r=1",
+    "github": "https://github.com/PhoenixPaw"
+  }
+}
