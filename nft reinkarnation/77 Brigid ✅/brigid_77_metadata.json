@@ -1,0 +1,84 @@
+{
+  "name": "Brigid, Phoenix of Fire and Craft #77",
+  "description": "When the Tuatha Dé Danann still walked the green hills of Éire, Brigid was known as the red-haired daughter of Dagda: keeper of the hearth-flame, patron of smiths and poets, and guardian of healing wells. Her name was invoked at Imbolc, when winter loosened its grip, and every new fire in the homesteads was said to carry a spark from her unseen hand. Around her altars, iron was shaped, verses were born and the sick were washed in water drawn before dawn.\n\nBut when the age of the old gods waned and their shrines fell silent, Brigid refused to fade as a ghost of memory. In the last sacred forge, where dying coals met the water from an ancient spring, her essence burned and cooled at once, folding fire and welllight into a single vow. From that union rose a new form: a slender phoenix with a mane like living red hair, one half of her body glowing with copper and ember, the other washed in ivory and sea-green, as if she bore both forge and fountain in the same wings.\n\nThus Brigid was reborn as the Phoenix of Fire and Craft—a goddess who no longer needs stone temples. Wherever metal is tempered instead of shattered, wherever words heal instead of wound, and wherever a small flame survives the dark to greet the first thaw, her dual wings pass unseen. In this reincarnation, she carries the old Irish spring forward, not as a forgotten saint, but as a living firebird who remembers every hammer-stroke and every whispered prayer at the water’s edge.",
+  "image": "ipfs://TODO_BRIGID_77",
+  "collection": "88 Reincarnations of the Phoenix",
+  "token_id": 77,
+  "nfc": true,
+  "aspect_ratio": "9:16",
+  "background": "pure black",
+  "banner_placeholder": true,
+  "pantheon": "Celtic",
+  "deity": "Brigid",
+  "title": "Phoenix of Fire and Craft",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "88 Reincarnations of the Phoenix"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Celtic"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Brigid"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Phoenix of Fire and Craft"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Anthropomorphic Phoenix"
+    },
+    {
+      "trait_type": "Aspect Left",
+      "value": "Fire, Forge, Inspiration"
+    },
+    {
+      "trait_type": "Aspect Right",
+      "value": "Spring, Healing, Wells"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire and Water"
+    },
+    {
+      "trait_type": "Primary Artifact",
+      "value": "Smith's Hammer"
+    },
+    {
+      "trait_type": "Secondary Artifact",
+      "value": "Orb of Living Water"
+    },
+    {
+      "trait_type": "Armor Style",
+      "value": "Celtic Knotwork, Dual Palette"
+    },
+    {
+      "trait_type": "Color Palette Left",
+      "value": "Copper, Amber, Red-Gold"
+    },
+    {
+      "trait_type": "Color Palette Right",
+      "value": "Ivory, Sea-Green, Turquoise"
+    },
+    {
+      "trait_type": "Crest",
+      "value": "Long Fiery Red Feather-Hair"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "4 talons per hand"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Reserved Lower 10-15%"
+    }
+  ]
+}

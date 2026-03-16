@@ -1,0 +1,39 @@
+{
+  "name": "Amaterasu (Radiance of the Eternal Dawn)",
+  "description": "In her phoenix form, Amaterasu rises with celestial elegance, clad in the traditional regalia of the Japanese sun goddess. Her face, a graceful fusion of avian majesty and divine femininity, is painted in the ceremonial style of ancient Japan. Iridescent wings stretch from her sides like the horizon ablaze, as she holds a sacred mirror and ceremonial fan. Adorned with a radiant sun-headdress and layered kimono of crimson and gold, she is the eternal light reborn in sacred flame.",
+  "image": "ipfs://REPLACE_WITH_CID",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Japanese"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Reincarnation"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Goddess of the Sun"
+    },
+    {
+      "trait_type": "Crown",
+      "value": "Sunburst Headdress"
+    },
+    {
+      "trait_type": "Artifact",
+      "value": "Sacred Mirror & Fan"
+    },
+    {
+      "trait_type": "Garment",
+      "value": "Multilayered Kimono with Ancient Motifs"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Radiant Red and Violet Feathers"
+    },
+    {
+      "trait_type": "Face Detail",
+      "value": "Traditional Japanese Makeup"
+    }
+  ]
+}

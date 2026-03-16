@@ -1,0 +1,36 @@
+{
+  "name": "Phoenix Rebirth #25 — Hades",
+  "description": "Hades reborn as a Phoenix Deity of the Greek pantheon, embodying Underworld • Dominion • Afterlife.",
+  "edition": 25,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Hades"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Greek"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Underworld • Dominion • Afterlife"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

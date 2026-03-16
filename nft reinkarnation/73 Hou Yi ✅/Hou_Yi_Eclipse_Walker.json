@@ -1,0 +1,79 @@
+{
+  "name": "Hou Yi, Eclipse Walker \u2014 The Phoenix of the Fallen Arrows",
+  "series": "88 Reincarnations of the Phoenix",
+  "edition": 1,
+  "token_id": 66,
+  "description": "When the last sun collapsed, Hou Yi \u2014 once the divine archer \u2014 refused to fade. His body of bronze and flame turned to ash, and from that ash, wings of shadow grew. The bow of light he once wielded became his burden, forged now from the bones of the fallen suns.\n\nHe climbs through the darkness toward the echo of dawn, his claws gripping stone, his heart beating to the memory of fire. The world forgot his victories, yet his oath burns still \u2014 to strike the first light through the void, even if it devours him.",
+  "image": "ipfs://REPLACE_WITH_HOU_YI_IMAGE_CID",
+  "external_url": "https://phoenixpaw.io/",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Chinese"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Hou Yi"
+    },
+    {
+      "trait_type": "Reincarnation Form",
+      "value": "Eclipse Walker \u2014 Phoenix Warrior"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Fallen Archer of the Sun"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Sun / Shadow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Athletic avian physique forged from ash and flame"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Phoenix visage, golden eyes, predatory focus"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Four clawed fingers each, pulling Solar Bow with tension"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Minimal obsidian plates fused into body"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Solar Bow made of phoenix bone and magma light"
+    },
+    {
+      "trait_type": "Arrow",
+      "value": "Single golden arrow glowing with dying sunlight"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Climbing upward through darkness while drawing bow"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Golden top light with ember underglow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure black void with faint upward radiance"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fractured sun emblem on chest"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Resilient and determined"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

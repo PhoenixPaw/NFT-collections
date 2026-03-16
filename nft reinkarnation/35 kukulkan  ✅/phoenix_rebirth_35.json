@@ -1,0 +1,36 @@
+{
+  "name": "Phoenix Rebirth #35 — Kukulkan",
+  "description": "Kukulkan reborn as a Phoenix Deity of the Mesoamerican pantheon, embodying Sky • Wind • Feathered Serpent.",
+  "edition": 35,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Kukulkan"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Mesoamerican"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Sky • Wind • Feathered Serpent"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

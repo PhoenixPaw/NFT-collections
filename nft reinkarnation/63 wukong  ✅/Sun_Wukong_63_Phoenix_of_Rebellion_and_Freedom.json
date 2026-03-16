@@ -1,0 +1,88 @@
+{
+  "name": "Sun Wukong #63 — Phoenix of Rebellion and Freedom",
+  "title": "Wukong, Ember-Crown of Rebellion",
+  "series": "88 Reincarnations of the Phoenix",
+  "series_number": 63,
+  "deity": "Sun Wukong (Monkey King)",
+  "pantheon": "Chinese",
+  "description": "Wukong, Ember-Crown of Rebellion — the 63rd phoenix reincarnation. A divine anthropomorphic phoenix incarnation of Sun Wukong, the immortal trickster and rebel who defied the heavens. He stands in a fierce, battle-ready stance, clutching the Ruyi Jingu Bang — his legendary staff that grows with his will. His beaked visage burns with defiance, golden eyes gleaming beneath a flaming crown of feathers.",
+  "image": "ipfs://TBD",
+  "external_url": "https://phoenixpaw.io/",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "88 Reincarnations of the Phoenix"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Chinese"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Sun Wukong"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Rebellion & Freedom"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Anthropomorphic Phoenix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Ruyi Jingu Bang (Staff)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Burning Gold"
+    },
+    {
+      "trait_type": "Crown",
+      "value": "Flaming Feather Crest"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Celestial Gold-Red, Inscribed with Runes"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Battle-Ready Stance"
+    },
+    {
+      "trait_type": "Plumage Palette",
+      "value": "Crimson / Gold / Ember Orange"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "HDR10+ Cinematic"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Ultra-detailed 8K Anime Realism"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Reserved (Lower Black Zone)"
+    },
+    {
+      "trait_type": "Orientation",
+      "value": "Portrait"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://TBD",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "compiler": "PhoenixPaw Metadata v1.4"
+  }
+}

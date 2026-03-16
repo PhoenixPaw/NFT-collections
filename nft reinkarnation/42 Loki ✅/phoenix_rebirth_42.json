@@ -1,0 +1,48 @@
+{
+  "name": "Phoenix Rebirth #42 — Loki",
+  "description": "Loki reborn as a Phoenix Deity of the Norse pantheon. Emerald flame crowned in deception, master of shifting forms, holding masks of truth and illusion. Chaos, cunning, and transformation woven into a single reborn essence.",
+  "edition": 42,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Loki"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Norse"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Scandinavia"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Chaos • Trickery • Transformation"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Masks of Illusion"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Emerald Flame"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

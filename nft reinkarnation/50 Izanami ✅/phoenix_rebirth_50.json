@@ -1,0 +1,28 @@
+{
+    "name": "Phoenix Rebirth #50 — Izanami",
+    "description": "Izanami — the Shinto Mother of Creation and Queen of Yomi. She embodies both life-giver and sovereign of the underworld. In Phoenix form she radiates volcanic rebirth — flame, shadow, and sacred transformation intertwined. Creation and destruction coexist within her eternal cycle.",
+    "edition": 50,
+    "series": "88 Reincarnations of the Phoenix",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Izanami"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "-"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Volcanic Flame"
+        },
+        {
+            "trait_type": "Domain",
+            "value": "Life, Death & Rebirth"
+        }
+    ]
+}

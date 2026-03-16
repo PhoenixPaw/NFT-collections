@@ -1,0 +1,28 @@
+{
+    "name": "Phoenix Rebirth #53 — Inari",
+    "description": "Inari — the Shinto Deity of Harvest, Prosperity, and Sacred Balance. Guardian of rice fields and keeper of divine abundance, often accompanied by fox spirits. In Phoenix incarnation Inari radiates golden fertility and renewal — the blessing of growth, fortune, and cyclical rebirth.",
+    "edition": 53,
+    "series": "88 Reincarnations of the Phoenix",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Inari"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "-"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Harvest & Prosperity"
+        },
+        {
+            "trait_type": "Domain",
+            "value": "Fertility, Abundance & Balance"
+        }
+    ]
+}

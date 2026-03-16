@@ -1,0 +1,92 @@
+{
+  "collection": "88 Reincarnations of the Phoenix",
+  "edition": 70,
+  "name": "Baihu #70 — Phoenix of Western Steel and Retribution",
+  "deity": "Baihu (White Tiger of the West)",
+  "pantheon": "Chinese",
+  "title": "Phoenix of Western Steel and Retribution",
+  "description": "Ancient Chinese chronicles speak of Baihu, the divine guardian of the West, embodiment of steel, disciplined warfare, and rightful retribution. His arrival once signaled the downfall of cities ruled by pride, corruption, and unmeasured force. Temples devoted to him were adorned with narrow metal banners and tiger-etched ritual patterns, and his priests conducted rites under the dry western winds, when justice required a blade rather than a plea. To mortals, Baihu was a boundary: the moment where arrogance met consequence.\n\nWhen the celestial beasts vanished from mortal sight, Baihu’s spirit did not fade. Instead, it was reborn through the burning cycle of the Phoenix, feathers banded with tiger stripes and veined with metallic luminescence. His wings now carry the heat of purification, and his curved blades enforce the old law of balance. He rises only when evil believes itself untouchable, striking in a single, perfect motion. Thus, the Phoenix Baihu stands as the searing judgment of the West—unseen until the instant everything ends.",
+  "visual_canon": {
+    "background": "pure black",
+    "banner_space_bottom": true,
+    "camera_lock": "full body, from knees to head, slight low angle, dramatic silhouette",
+    "light_lock": "hard rimlight from top, subtle blue bounce from below, no side fog",
+    "pose_lock": "low spring‑pounce, chest forward, arms extended behind gripping handles, elbows back, symmetric",
+    "wings": "folded tight, metallic-edged",
+    "hands": "four fingers each, claws slightly extended",
+    "legs": "digitigrade"
+  },
+  "wardrobe": {
+    "tunic": "sleeveless ritual battle‑tunic without hood, side splits, chest partially open",
+    "belt": "ceremonial belt with engraved symbols of West and metal",
+    "armor": "minimal segmented on forearms, waist, shins; no bulky chest armor"
+  },
+  "weapons": [
+    {
+      "type": "curved blades",
+      "count": 2,
+      "material": "tiger‑fang steel",
+      "position": "held in hands"
+    }
+  ],
+  "symbolism": [
+    "West",
+    "Metal/Steel",
+    "Warfare Discipline",
+    "Retribution",
+    "Balance"
+  ],
+  "traits": [
+    {
+      "trait_type": "Species",
+      "value": "Anthropomorphic Phoenix"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden, round pupils"
+    },
+    {
+      "trait_type": "Feather Pattern",
+      "value": "Black tiger stripes"
+    },
+    {
+      "trait_type": "Veins",
+      "value": "Turquoise bioluminescent"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Folded, metallic edge"
+    },
+    {
+      "trait_type": "Fingers",
+      "value": "Four per hand"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure black"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Ceremonial minimal, sleeveless tunic"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Dual curved steel"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "rules": {
+    "no_spread_wings": true,
+    "no_fifth_finger": true,
+    "no_hood": true,
+    "no_back_weapons": true,
+    "maintain_symmetry": true
+  },
+  "format": {
+    "image_type": "PNG",
+    "background_color": "000000"
+  }
+}

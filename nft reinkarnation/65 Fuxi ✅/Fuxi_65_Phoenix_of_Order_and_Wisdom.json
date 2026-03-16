@@ -1,0 +1,70 @@
+{
+  "name": "Fuxi, Phoenix of Order and Wisdom",
+  "description": "The 65th phoenix reincarnation — brother of Nuwa, goddess of creation and harmony. Together, they forged balance between heaven and earth. Fuxi stands as the keeper of law and cosmic wisdom, his serpent body coiling with divine power. Clad in celestial armor, he holds the compass and the staff of order, symbols of the structure that binds the universe. His sapphire eyes reflect the eternal knowledge shared with his sister, the flame of creation.",
+  "image": "ipfs://TBD",
+  "series": "88 Reincarnations of the Phoenix",
+  "series_number": 65,
+  "deity": "Fuxi",
+  "pantheon": "Chinese",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "88 Reincarnations of the Phoenix"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Chinese"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Fuxi"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Order & Wisdom"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix deity with serpent body"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Compass of Heaven"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Staff of Order"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Celestial ceremonial armor"
+    },
+    {
+      "trait_type": "Relation",
+      "value": "Brother of Nuwa (#64)"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Wisdom and Balance"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Ultra-detailed 8K anime-realism, HDR10+"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure black with reserved NFT banner zone"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://TBD",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "compiler": "PhoenixPaw Metadata v1.4"
+  }
+}

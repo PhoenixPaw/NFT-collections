@@ -1,0 +1,80 @@
+{
+  "name": "Lakshmi, Phoenix of Fortune and Dawn",
+  "token_id": 59,
+  "pantheon": "Indian",
+  "deity": "Lakshmi",
+  "title": "Phoenix of Fortune and Dawn",
+  "description": "This NFT portrays Lakshmi, the goddess of prosperity and beauty from the Indian pantheon, reimagined as a phoenix of rebirth and abundance. She stands as the embodiment of harmony between light and life \u2014 her feathers glimmer with jade and pearl iridescence, while her attire, forged from pure silver, flows like liquid moonlight.\n\nFrom her palms emerge lotus blossoms woven of energy, symbolizing spiritual purity and eternal renewal. Upon her chest, a luminous spiral pulses with serene power \u2014 the endless cycle of giving and receiving. Her wings, vast and serene, shimmer with soft celestial hues, casting reflections of distant constellations upon the void.\n\nWhere Brahma shaped creation, Lakshmi sustains its beauty and balance \u2014 the dawn within the darkness, the light that nurtures rather than burns. She is the Phoenix of Fortune and Dawn, forever rising to bring grace, radiance, and life to the realms reborn.",
+  "collection": "88 Reincarnations of the Phoenix",
+  "form": "Anthropomorphic Phoenix Goddess (Reincarnation)",
+  "element": "Light / Prosperity",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Indian"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Lakshmi"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Reincarnation"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Prosperity, Beauty, Renewal"
+    },
+    {
+      "trait_type": "Primary Materials",
+      "value": "Silver, Jade, Pearl"
+    },
+    {
+      "trait_type": "Symbols",
+      "value": "Lotus, Spiral of Fortune"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Wide, jade-pearl iridescence"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Cold cinematic light"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Forged silver robes with engraved edges"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Graceful standing, offering gesture"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Flowing lotus auras and silver light"
+    },
+    {
+      "trait_type": "Canon Compliance",
+      "value": "Anime-realism, full-body to knees, no neon, no gold"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Yes (20%)"
+    }
+  ],
+  "visual_spec": {
+    "aspect_ratio": "1:1",
+    "resolution": "4096x4096 (min 1024x1024)",
+    "background": "Pure black",
+    "banner_zone_percent": 20,
+    "sharpness": "Ultra",
+    "contrast_profile": "High without clipping"
+  },
+  "artist": "Phoenix Paw Studio",
+  "license": "CC BY-NC-ND 4.0",
+  "external_url": "https://getgems.io/phoenixpaw"
+}

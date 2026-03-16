@@ -1,0 +1,80 @@
+{
+  "name": "Cernunnos, Phoenix of the Wild Gate #78",
+  "description": "Long before roads cut through the forests, Cernunnos was named in whispers beside antlered shadows and hidden clearings. He was the horned lord of the wild host, seated at the roots of unseen trees, ring and torc in his hands as beasts of field, river and sky moved around him without fear. Hunters left offerings where paths crossed, knowing that every trail, every game track and every forgotten shrine lay within his wordless domain at the edge between the human world and the deep, untamed green.\n\nWhen men fenced the earth and the old groves fell, the circles of stone and oak around his presence thinned, but Cernunnos did not vanish. At one last crossing of paths, where a dying stag fell beneath a canopy of withered leaves, his ancient spirit stepped through a gate only he could see—a ring of runes and roots carved into the dark. Passing through, he shed the shape of a hidden forest god and rose again as a towering phoenix with a horned crest like antlers, feathers woven from moss, bark and shadowed gold, his eyes burning red with the memory of every creature that had ever met his gaze.\n\nThus Cernunnos became the Phoenix of the Wild Gate: guardian of thresholds where wilderness still remembers itself. Wherever a single stand of trees resists the plough, wherever river-mist hides tracks no map has claimed, and wherever a ring or staff is raised in quiet respect for the more-than-human world, his antlered wings close the circle. In this reincarnation he is not a god of the past, but the living promise that some doors into the wild will never fully close.",
+  "image": "ipfs://TODO_CERUNNOS_78",
+  "collection": "88 Reincarnations of the Phoenix",
+  "token_id": 78,
+  "nfc": true,
+  "aspect_ratio": "9:16",
+  "background": "pure black",
+  "banner_placeholder": true,
+  "pantheon": "Celtic",
+  "deity": "Cernunnos",
+  "title": "Phoenix of the Wild Gate",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "88 Reincarnations of the Phoenix"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Celtic"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Cernunnos"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Phoenix of the Wild Gate"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Anthropomorphic Phoenix"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Wilderness and Thresholds"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Forest, Beasts, Otherworld Gate"
+    },
+    {
+      "trait_type": "Primary Artifact",
+      "value": "Living Staff of Branch and Leaf"
+    },
+    {
+      "trait_type": "Secondary Artifact",
+      "value": "Runic Wild Gate Ring"
+    },
+    {
+      "trait_type": "Armor Style",
+      "value": "Minimal Celtic Regalia"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Moss Green, Forest Teal, Aged Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glowing Red"
+    },
+    {
+      "trait_type": "Crest",
+      "value": "Antler-like Horned Feather Crown"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "4 talons per hand"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Reserved Lower 10-15%"
+    }
+  ]
+}

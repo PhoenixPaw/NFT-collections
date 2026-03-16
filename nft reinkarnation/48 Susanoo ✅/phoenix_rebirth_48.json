@@ -1,0 +1,52 @@
+{
+  "name": "Phoenix Rebirth #48 — Susanoo",
+  "description": "Susanoo reborn as a Phoenix Deity of the Shinto pantheon. Storm-bringer clad in midnight armor, blade drawn against chaos, serpent subdued at his side. Tempest, rebellion, and divine fury reborn in disciplined flame.",
+  "edition": 48,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Susanoo"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Shinto"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Storm • Sea • Chaos • Rebellion"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Divine Katana"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Subdued Serpent"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Tempest Flame"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

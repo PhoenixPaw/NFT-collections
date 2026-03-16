@@ -1,0 +1,48 @@
+{
+  "name": "Phoenix Rebirth #44 — Tyr",
+  "description": "Tyr reborn as a Phoenix Deity of the Norse pantheon. Silent embodiment of justice and sacrifice, blade lowered yet unbroken, guardian of honor in storm-forged rebirth. The flame above his crown burns not for conquest — but for oath and law.",
+  "edition": 44,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Tyr"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Norse"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Scandinavia"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Justice • War • Sacrifice • Law"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sacred Sword"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Oath Flame"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

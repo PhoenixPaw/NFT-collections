@@ -1,0 +1,37 @@
+{
+  "name": "Phoenix Rebirth #81 — Ogun, Master of the Eternal Forge",
+  "description": "Before roads were opened and before iron answered the hand, Ogun stood as the force that cut a path through resistance. In Yoruba myth he is the god of iron, war, craft, labor, and all that is forged through will. He is not merely a smith, but the sacred violence of creation itself — the strike that makes form possible. In Phoenix form, his body glows with forge-fire and tempered resolve. Metal, flame, and purpose become one. He is the edge that builds as much as it destroys, the heat beneath civilization, the eternal forge where destiny is hammered into shape.",
+  "edition": 81,
+  "tier": "",
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Ogun"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Yoruba"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Iron • Forge • War • Labor"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": ""
+    }
+  ]
+}

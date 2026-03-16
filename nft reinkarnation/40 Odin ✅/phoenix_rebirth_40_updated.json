@@ -1,0 +1,56 @@
+{
+  "name": "Phoenix Rebirth #40 — Odin",
+  "description": "Odin reborn as a Phoenix Deity of the Norse pantheon. Crowned with eternal flame, bearing the spear of sovereign will, flanked by ravens of memory and thought. Lightning veins pulse beneath midnight feathers — wisdom earned through sacrifice, vision forged in fire.",
+  "edition": 40,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Odin"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Norse"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Scandinavia"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Wisdom • War • Sacrifice • Sovereignty"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gungnir Spear"
+    },
+    {
+      "trait_type": "Companions",
+      "value": "Ravens (Huginn & Muninn)"
+    },
+    {
+      "trait_type": "Crown",
+      "value": "Phoenix Flame"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Storm Lightning Veins"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

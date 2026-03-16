@@ -1,0 +1,28 @@
+{
+    "name": "Phoenix Rebirth #55 — Bishamonten",
+    "description": "Bishamonten — the Guardian of the North and God of Warriors and Fortune. Protector of righteousness and divine law, he stands armored in sacred authority. In Phoenix incarnation he manifests as celestial vigilance — guardian flame, disciplined power, and prosperity defended by honor.",
+    "edition": 55,
+    "series": "88 Reincarnations of the Phoenix",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Bishamonten"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "-"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Guardian Flame"
+        },
+        {
+            "trait_type": "Domain",
+            "value": "Protection, War & Fortune"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Kali, Phoenix of Destruction and Rebirth",
+  "token_id": 62,
+  "collection": "88 Reincarnations of the Phoenix",
+  "pantheon": "Indian",
+  "deity": "Kali",
+  "title": "Phoenix of Destruction and Rebirth",
+  "description": "This NFT embodies Kali, goddess of destruction and liberation, reimagined as a phoenix whose fire ends illusion and awakens truth. Four arms move in sacred rhythm: the trishula pierces delusion, the curved khadga severs ignorance, one hand grants fearlessness (abhaya), the other offers release (vara). Her feathers blaze in indigo, violet, and crimson HDR gradients, while a tongue of living fire issues from her open beak \u2014 the soundless mantra of dissolution and rebirth.",
+  "form": "Anthropomorphic Phoenix Goddess (Reincarnation)",
+  "element": "Destruction / Liberation / Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Indian"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Kali"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Reincarnation"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Four \u2014 trishula, khadga, abhayamudra, varadamudra"
+    },
+    {
+      "trait_type": "Tongue",
+      "value": "Crimson energy (living fire)"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Indigo, violet, crimson HDR gradients"
+    },
+    {
+      "trait_type": "Ornaments",
+      "value": "Crown; skull garland (stylized, non-gory)"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "HDR10+ dual light (cool blue / warm purple)"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Dynamic traditional Kali stance"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Fiery, ash-filled energy vortices"
+    },
+    {
+      "trait_type": "Canon Compliance",
+      "value": "Anime-realism; knees visible; no neon; no gold feathers"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Yes (20%)"
+    }
+  ],
+  "visual_spec": {
+    "aspect_ratio": "1:1",
+    "resolution": "4096x4096 (min 1024x1024)",
+    "background": "Pure black",
+    "banner_zone_percent": 20,
+    "sharpness": "Ultra",
+    "contrast_profile": "HDR10+; deep blacks; clean highlights"
+  },
+  "artist": "Phoenix Paw Studio",
+  "license": "CC BY-NC-ND 4.0",
+  "external_url": "https://getgems.io/phoenixpaw"
+}

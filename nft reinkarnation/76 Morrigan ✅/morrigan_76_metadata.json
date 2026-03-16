@@ -1,0 +1,76 @@
+{
+  "name": "Morrigan, Phoenix of War and Prophecy #76",
+  "description": "On the eve of forgotten battles, when campfires shrink and the wind grows sharp, Morrigan descends as a tall, raven-borne phoenix over the Celtic host. Her beaked visage and burning amber eyes read the hearts of warriors more clearly than any omen in the sky, black and blood-red feathers layering her frame like a cloak woven from night and spilled vows. Bronze armor carved with endless knotwork binds her chest and waist, the long central plate falling like a blade of shadow between her taloned legs.\n\nIn one hand she bears a spear of cold iron and carved ash, its leaf-shaped tip catching a single hard line of light. In the other she lifts a war-standard staff, from which a tattered banner of darkness trails and frays, never quite touching the unseen ground beneath her. Faint crimson runes flicker along her wings and armor, not as flame but as written verdicts, already cast. Around her there is no battlefield, no earth—only perfect blackness in which every step, every scream, every victory has already been measured.\n\nMorrigan, Phoenix of War and Prophecy, does not shout or plead. She watches. Where she stands, courage curdles into destiny, and the clash of shields becomes nothing more than the echo of a sentence spoken long before steel was ever drawn.",
+  "image": "ipfs://TODO_MORRIGAN_76",
+  "collection": "88 Reincarnations of the Phoenix",
+  "token_id": 76,
+  "nfc": true,
+  "aspect_ratio": "9:16",
+  "background": "pure black",
+  "banner_placeholder": true,
+  "pantheon": "Celtic",
+  "deity": "Morrigan",
+  "title": "Phoenix of War and Prophecy",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "88 Reincarnations of the Phoenix"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Celtic"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Morrigan"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Phoenix of War and Prophecy"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Anthropomorphic Phoenix"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "War and Prophecy"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Battle, Fate, Night"
+    },
+    {
+      "trait_type": "Primary Weapon",
+      "value": "Runic War Spear"
+    },
+    {
+      "trait_type": "Secondary Artifact",
+      "value": "Shadow War Standard"
+    },
+    {
+      "trait_type": "Armor Style",
+      "value": "Dark Celtic Knotwork"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Black, Crimson, Dark Violet, Aged Bronze"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Raven-like Shadow Wings"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "4 talons per hand"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Reserved Lower 10-15%"
+    }
+  ]
+}

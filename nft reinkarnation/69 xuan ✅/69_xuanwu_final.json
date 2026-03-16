@@ -1,0 +1,37 @@
+{
+  "id": 69,
+  "name": "Xuanwu, Phoenix of Northern Winter and Endurance",
+  "pantheon": "Chinese",
+  "element": "Ice",
+  "core_colors": [
+    "emerald-green",
+    "turquoise",
+    "gold accents",
+    "graphite shadows",
+    "violet undertones",
+    "silver plumage"
+  ],
+  "visual_traits": {
+    "anthropomorphic_phoenix": true,
+    "snake_vertical_pupils": true,
+    "silver_feathers": true,
+    "hex_turtle_armor": true,
+    "blue_internal_glow": true,
+    "ice_energy_orb": true,
+    "semi_metallic_wings": true,
+    "wings_symmetric": true,
+    "legs_to_knee_visible": true,
+    "four_fingers_each_hand": true
+  },
+  "weapon": "Ancient ice-forged spear",
+  "energy_hand": "Frozen orb with cold lightning",
+  "background": "Pure black with reserved space for banner",
+  "symbolism": {
+    "turtle_shell": "endurance",
+    "winter_flares": "immovability",
+    "serpent_pupil": "cycle and continuity"
+  },
+  "lore_alignment": "Endurance, Preservation, Winter Authority",
+  "rarity": "Prime Reincarnation",
+  "generation": "88 Reincarnations of the Phoenix"
+}

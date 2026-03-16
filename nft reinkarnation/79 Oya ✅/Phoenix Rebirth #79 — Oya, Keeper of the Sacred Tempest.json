@@ -1,0 +1,37 @@
+{
+  "name": "Phoenix Rebirth #79 — Oya, Keeper of the Sacred Tempest",
+  "description": "She rises from the edge of the storm where wind becomes judgment. In ancient Yoruba belief, Oya governs tempests, lightning, and the sacred threshold between life and death. She is not chaos, but transition — the force that clears the old to prepare the new. In her Phoenix incarnation, the storm does not follow her — it forms around her will. Ash bends to wind. Lightning coils beneath her feathers. She stands at the gates of change, where endings ignite rebirth. She is the breath before transformation, the fire carried by the wind, the sovereign of upheaval that restores balance through motion.",
+  "edition": 79,
+  "tier": "",
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Oya"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Yoruba"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Storm • Wind • Lightning • Transformation"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": ""
+    }
+  ]
+}

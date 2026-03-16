@@ -1,0 +1,76 @@
+{
+  "name": "Parvati, Phoenix of Devotion and Power",
+  "token_id": 61,
+  "collection": "88 Reincarnations of the Phoenix",
+  "pantheon": "Indian",
+  "deity": "Parvati",
+  "title": "Phoenix of Devotion and Power",
+  "description": "Parvati reimagined as a phoenix who unites compassion and might. Body and face divided into two luminous halves \u2014 left ruby-gold (devotion), right sapphire-silver (divine strength). Feathers and robes mirror this duality with HDR gradients. In her right hand: trishula. From her left palm: a living Flower of Life with chakra-colored petals (red\u2192violet), symbolizing enlightenment. She embodies harmonized heart and will.",
+  "form": "Anthropomorphic Phoenix Goddess (Reincarnation)",
+  "element": "Love / Protection / Strength",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Indian"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Parvati"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Reincarnation"
+    },
+    {
+      "trait_type": "Duality",
+      "value": "Ruby-gold left; Sapphire-silver right"
+    },
+    {
+      "trait_type": "Symbols",
+      "value": "Trishula; Flower of Life (chakra petals)"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Bicolored gradients, warm and cool"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "HDR10+ dual light (warm & cool)"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Traditional silk drapery with sacred motifs"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Regal standing, balanced power"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Radiant aura; chakra ascent"
+    },
+    {
+      "trait_type": "Canon Compliance",
+      "value": "Anime-realism; knees visible; no neon; no gold feathers"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Yes (20%)"
+    }
+  ],
+  "visual_spec": {
+    "aspect_ratio": "1:1",
+    "resolution": "4096x4096 (min 1024x1024)",
+    "background": "Pure black",
+    "banner_zone_percent": 20,
+    "sharpness": "Ultra",
+    "contrast_profile": "HDR10+; deep blacks; clean highlights"
+  },
+  "artist": "Phoenix Paw Studio",
+  "license": "CC BY-NC-ND 4.0",
+  "external_url": "https://getgems.io/phoenixpaw"
+}

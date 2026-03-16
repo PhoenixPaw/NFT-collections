@@ -1,0 +1,36 @@
+{
+  "name": "Phoenix Rebirth #24 — Poseidon",
+  "description": "Poseidon reborn as a Phoenix Deity of the Greek pantheon, embodying Sea • Storm • Oceans.",
+  "edition": 24,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Poseidon"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Greek"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Sea • Storm • Oceans"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

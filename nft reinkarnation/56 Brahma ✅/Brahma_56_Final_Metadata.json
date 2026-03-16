@@ -1,0 +1,97 @@
+{
+    "name": "Brahma #56 — Radiant Architect of Creation",
+    "description": "Brahma #56 — the Phoenix of Creation from the Indian pantheon. Reborn as a majestic, four-faced avian deity, Brahma sits upon a multicolored lotus, embodying divine equilibrium. Each radiant face represents one of the four Vedas, and his four arms hold the sacred symbols of creation — the staff of genesis, the mala of time, the vessel of life, and the book of knowledge. Golden Sanskrit mantras and luminous soul-lines flow across his feathered body, channeling energy through chakras glowing in gold, purple, and turquoise. His attire, a vibrant robe of royal purple and turquoise with golden embroidery, contrasts against his fiery plumage. Rendered in HDR anime-realism with hyper-detail, Brahma radiates balance and power — the eternal architect within the cosmic flame of Phoenix Paw.",
+    "image": "ipfs://REPLACE_WITH_CID",
+    "external_url": "https://phoenixpaw.io/",
+    "series": "88 Reincarnations of the Phoenix (NFC)",
+    "collection": "Phoenix Paw",
+    "number": 56,
+    "deity": "Brahma",
+    "pantheon": "Indian",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Indian"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Brahma"
+        },
+        {
+            "trait_type": "Form",
+            "value": "Anthropomorphic Phoenix"
+        },
+        {
+            "trait_type": "Faces",
+            "value": "Four (Avian)"
+        },
+        {
+            "trait_type": "Arms",
+            "value": "Four"
+        },
+        {
+            "trait_type": "Lotus",
+            "value": "Multicolored"
+        },
+        {
+            "trait_type": "Attire",
+            "value": "Purple and Turquoise Robes with Golden Embroidery"
+        },
+        {
+            "trait_type": "Held Items",
+            "value": "Staff, Mala, Vessel, Book"
+        },
+        {
+            "trait_type": "Inscription",
+            "value": "Glowing Sanskrit Mantras"
+        },
+        {
+            "trait_type": "Soul Lines",
+            "value": "Visible"
+        },
+        {
+            "trait_type": "Chakra Energy",
+            "value": "Gold / Purple / Turquoise"
+        },
+        {
+            "trait_type": "Armor",
+            "value": "Feathered Light"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pure Black"
+        },
+        {
+            "trait_type": "Banner Zone",
+            "value": "Reserved"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Expanded"
+        },
+        {
+            "trait_type": "Anatomy",
+            "value": "Massive Lower Body (to knees)"
+        },
+        {
+            "trait_type": "Style",
+            "value": "Anime-Realism"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "HDR / Hyper-detailed"
+        },
+        {
+            "trait_type": "Canon",
+            "value": "Historical / Non-futuristic"
+        },
+        {
+            "trait_type": "Aspect Ratio",
+            "value": "Portrait"
+        },
+        {
+            "trait_type": "Compliance",
+            "value": "Phoenix Paw Black Background Rule"
+        }
+    ]
+}

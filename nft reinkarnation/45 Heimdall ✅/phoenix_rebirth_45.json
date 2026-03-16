@@ -1,0 +1,48 @@
+{
+  "name": "Phoenix Rebirth #45 — Heimdall",
+  "description": "Heimdall reborn as a Phoenix Deity of the Norse pantheon. Golden guardian of the celestial bridge, horn raised in eternal vigilance. Watcher of realms, sentinel of destiny, reborn in sovereign fire and unblinking sight.",
+  "edition": 45,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Heimdall"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Norse"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Scandinavia"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Vigilance • Guardianship • Light • Prophecy"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gjallarhorn"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Golden Sentinel Flame"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

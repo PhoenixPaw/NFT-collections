@@ -1,0 +1,28 @@
+{
+    "name": "Phoenix Rebirth #54 — Hachiman",
+    "description": "Hachiman — the Shinto God of War and Divine Protector of Japan. Patron of warriors and guardian of righteous battle, he embodies discipline, honor, and sacred fire. In Phoenix incarnation he rises as crimson judgment — blade of destiny forged in rebirth and unwavering resolve.",
+    "edition": 54,
+    "series": "88 Reincarnations of the Phoenix",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Hachiman"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "-"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Crimson Warfire"
+        },
+        {
+            "trait_type": "Domain",
+            "value": "War, Protection & Honor"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Vishnu #57 \u2014 Guardian of Balance",
+    "series": "88 Reincarnations of the Phoenix (NFC)",
+    "collection": "Phoenix Paw",
+    "number": 57,
+    "deity": "Vishnu",
+    "pantheon": "Indian",
+    "description": "Vishnu #57 \u2014 the Phoenix of Preservation. Anthropomorphic avian deity with four arms, each showing five fingers; holds conch (Shankha), chakra (Sudarshana), mace (Gada) and lotus. Deep cosmic\u2011blue plumage with radiant golden ornaments; calm yet sovereign aura of universal balance. HDR, anime\u2011realism, hyper\u2011detailed. Pure black background with a reserved lower banner zone.",
+    "image": "ipfs://REPLACE_WITH_CID",
+    "external_url": "https://phoenixpaw.io/",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Indian"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Vishnu"
+        },
+        {
+            "trait_type": "Form",
+            "value": "Anthropomorphic Phoenix"
+        },
+        {
+            "trait_type": "Arms",
+            "value": "Four"
+        },
+        {
+            "trait_type": "Fingers per Hand",
+            "value": "Five"
+        },
+        {
+            "trait_type": "Held Items",
+            "value": "Chakra (Sudarshana), Conch (Shankha), Mace (Gada), Lotus"
+        },
+        {
+            "trait_type": "Plumage Color",
+            "value": "Deep Cosmic Blue"
+        },
+        {
+            "trait_type": "Ornaments",
+            "value": "Radiant Gold"
+        },
+        {
+            "trait_type": "Aura",
+            "value": "Preservation & Balance"
+        },
+        {
+            "trait_type": "Style",
+            "value": "Anime-Realism"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "HDR / Hyper-detailed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pure Black"
+        },
+        {
+            "trait_type": "Banner Zone",
+            "value": "Reserved"
+        },
+        {
+            "trait_type": "Aspect Ratio",
+            "value": "Portrait"
+        },
+        {
+            "trait_type": "Compliance",
+            "value": "Phoenix Paw Black Background Rule"
+        }
+    ]
+}

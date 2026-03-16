@@ -1,0 +1,43 @@
+{
+    "name": "Nezha #67 — Phoenix of Defiance and Rebirth (Primordial Form)",
+    "description": "When the heavens forged order and chained the flame, a spark broke free — unbound, untamed, alive. From that spark rose Nezha, the Phoenix of Defiance, whose wings tore through destiny’s veil. He dances on the edge of ruin and renewal, each motion a rebellion, each breath — rebirth. His heart burns with the wrath of creation, his spear sings in the language of storms. Through his fire, the world remembers: no chain can hold a soul born from the blaze.",
+    "image": "ipfs://to_be_added",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Chinese"
+        },
+        {
+            "trait_type": "Form",
+            "value": "Primordial Phoenix"
+        },
+        {
+            "trait_type": "Aspect",
+            "value": "Defiance and Rebirth"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Flaming Spear of the Phoenix"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Molten Flame, Symmetrical Spread"
+        },
+        {
+            "trait_type": "Elements",
+            "value": "Fire, Wind, Spirit"
+        },
+        {
+            "trait_type": "Symbolism",
+            "value": "Rebellion, Renewal, Freedom"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Crimson, Gold, Black Steel, Ember Glow"
+        },
+        {
+            "trait_type": "Era",
+            "value": "Before the Age of Gods"
+        }
+    ]
+}

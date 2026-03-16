@@ -1,0 +1,48 @@
+{
+  "name": "Phoenix Rebirth #41 — Thor",
+  "description": "Thor reborn as a Phoenix Deity of the Norse pantheon. Wings spread in storm authority, crowned with living flame, Mjolnir charged with celestial lightning. Strength, protection, and thunderous force embodied in rebirth.",
+  "edition": 41,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Thor"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Norse"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Scandinavia"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Thunder • Protection • Strength"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mjolnir"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Storm Lightning"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

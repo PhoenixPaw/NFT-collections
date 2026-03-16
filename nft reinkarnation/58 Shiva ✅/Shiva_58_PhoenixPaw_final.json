@@ -1,0 +1,85 @@
+{
+    "name": "Shiva #58 — Flame of Destruction and Rebirth",
+    "series": "88 Reincarnations of the Phoenix (NFC)",
+    "collection": "Phoenix Paw",
+    "number": 58,
+    "deity": "Shiva",
+    "pantheon": "Indian",
+    "description": "Shiva #58 — the Phoenix of Destruction and Rebirth. Shiva appears as an anthropomorphic phoenix in a meditative, levitating state with six balanced arms and a blazing third eye. He wields the Trishula (trident), Damaru (drum), living fire, a ritual vessel, grants a blessing gesture, and bears a golden serpent naturally coiled around his arm. Deep blue-to-crimson plumage glows with gold; luminous flame-runes trace the body. The aura embodies purification, renewal, and the end of cycles so new life can arise. Anime‑realism, HDR, hyper‑detailed. Pure black background with a reserved lower banner zone.",
+    "image": "ipfs://REPLACE_WITH_CID",
+    "external_url": "https://phoenixpaw.io/",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Indian"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Shiva"
+        },
+        {
+            "trait_type": "Form",
+            "value": "Anthropomorphic Phoenix"
+        },
+        {
+            "trait_type": "State",
+            "value": "Levitating Meditation"
+        },
+        {
+            "trait_type": "Arms",
+            "value": "Six (Balanced)"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Three (Third Eye Aflame)"
+        },
+        {
+            "trait_type": "Serpent",
+            "value": "Golden, Coiled Around Arm"
+        },
+        {
+            "trait_type": "Held Items",
+            "value": "Trishula, Damaru, Fire, Ritual Vessel, Blessing"
+        },
+        {
+            "trait_type": "Plumage Gradient",
+            "value": "Deep Blue → Crimson with Gold Highlights"
+        },
+        {
+            "trait_type": "Runic Patterns",
+            "value": "Luminous Flame Runes"
+        },
+        {
+            "trait_type": "Aura",
+            "value": "Purification & Renewal"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Symmetrical"
+        },
+        {
+            "trait_type": "Style",
+            "value": "Anime-Realism"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "HDR / Hyper-detailed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pure Black"
+        },
+        {
+            "trait_type": "Banner Zone",
+            "value": "Reserved"
+        },
+        {
+            "trait_type": "Aspect Ratio",
+            "value": "Portrait"
+        },
+        {
+            "trait_type": "Compliance",
+            "value": "Phoenix Paw Black Background Rule"
+        }
+    ]
+}

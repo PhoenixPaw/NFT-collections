@@ -1,0 +1,37 @@
+{
+  "name": "Phoenix Rebirth #80 — Shango, Lord of the Living Thunder",
+  "description": "He is the king whose wrath is heard before it is seen. In Yoruba tradition, Shango commands thunder, lightning, royal authority, and the fire of judgment. His power is not wild destruction, but force directed with sovereign purpose. In his Phoenix incarnation, thunder becomes breath and lightning becomes crown. Flame surges through his feathers like the memory of a celestial strike. He stands not merely as a warrior, but as a ruler whose justice descends with stormfire. Where arrogance rises, he breaks it. Where strength is needed, he answers with living thunder.",
+  "edition": 80,
+  "tier": "",
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Shango"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Yoruba"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Thunder • Lightning • Kingship • Judgment"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": ""
+    }
+  ]
+}

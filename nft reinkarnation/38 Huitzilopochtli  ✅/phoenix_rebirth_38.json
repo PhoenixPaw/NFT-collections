@@ -1,0 +1,36 @@
+{
+  "name": "Phoenix Rebirth #38 — Huitzilopochtli",
+  "description": "Huitzilopochtli reborn as a Phoenix Deity of the Mesoamerican pantheon, embodying Sun • War • Sacrifice.",
+  "edition": 38,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Huitzilopochtli"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Mesoamerican"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Sun • War • Sacrifice"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

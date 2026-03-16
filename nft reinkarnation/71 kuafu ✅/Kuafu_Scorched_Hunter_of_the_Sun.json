@@ -1,0 +1,83 @@
+{
+  "name": "Kuafu, Scorched Hunter of the Sun",
+  "series": "88 Reincarnations of the Phoenix",
+  "edition": 1,
+  "token_id": 64,
+  "description": "When the world first tasted dawn, Kuafu rose in a shell of obsidian feathers and molten seams, vowing to hunt the arrogant Sun across the ruined sky. Each low, predatory stride splits the earth beneath him, rivers of fire spilling out to mark the path of his relentless oath.\n\nHis ember mane lashes in the burning wind, obsidian staff pulsing with caged magma, bronze sun-disc welded to his chest like a curse. He does not pray, does not falter; he runs \u2014 until either the Sun falls, or the world below him turns to ash.",
+  "image": "ipfs://REPLACE_WITH_KUAFU_IMAGE_CID",
+  "external_url": "https://phoenixpaw.io/",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Chinese"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Kuafu"
+    },
+    {
+      "trait_type": "Reincarnation Form",
+      "value": "Anthropomorphic Phoenix"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Sun-Chaser Hunter"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire / Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ash-gray molten-plated musculature"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Avian beak, predatory gaze"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Four clawed fingers on each hand"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Massive digitigrade phoenix legs"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Charred bronze-black primitive garb"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Minimal bronze sun-disc and belts"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Obsidian staff with magma veins"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Engraved solar emblem"
+    },
+    {
+      "trait_type": "Ground",
+      "value": "Cracked burning earth, molten trail"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Low sprint, hunter stance"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Harsh sun glow and lava rim light"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure black with reserved banner zone"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

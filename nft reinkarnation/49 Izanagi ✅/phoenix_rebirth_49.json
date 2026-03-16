@@ -1,0 +1,28 @@
+{
+    "name": "Phoenix Rebirth #49 — Izanagi",
+    "description": "Izanagi — the Creator Father of Shinto myth. From the void he shaped the islands, from sorrow he birthed light. In Phoenix form he stands as the architect of beginnings, guardian of sacred flame and divine order.",
+    "edition": 49,
+    "series": "88 Reincarnations of the Phoenix",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Izanagi"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "-"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Creation Flame"
+        },
+        {
+            "trait_type": "Domain",
+            "value": "Genesis & Order"
+        }
+    ]
+}

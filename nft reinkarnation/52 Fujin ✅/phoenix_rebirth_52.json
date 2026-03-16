@@ -1,0 +1,28 @@
+{
+    "name": "Phoenix Rebirth #52 — Fujin",
+    "description": "Fujin — the Shinto God of Wind and Breath of the World. Bearer of the sacred wind-bag, he releases tempests that shape seas and skies alike. In Phoenix incarnation he manifests as emerald current and divine motion — the unseen force that carries rebirth across the horizon.",
+    "edition": 52,
+    "series": "88 Reincarnations of the Phoenix",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Fujin"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "-"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Wind & Tempest"
+        },
+        {
+            "trait_type": "Domain",
+            "value": "Air, Storms & Motion"
+        }
+    ]
+}

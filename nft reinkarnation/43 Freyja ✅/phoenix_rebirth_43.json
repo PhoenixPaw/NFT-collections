@@ -1,0 +1,48 @@
+{
+  "name": "Phoenix Rebirth #43 — Freyja",
+  "description": "Freyja reborn as a Phoenix Deity of the Norse pantheon. Golden flame crowned in sovereignty, wings radiant in twilight aura, bow drawn with luminous precision. Goddess of love and war, beauty and fate — reborn in fire and celestial grace.",
+  "edition": 43,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Freyja"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Norse"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Scandinavia"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Love • War • Fate • Beauty"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Bow"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Radiant Flame"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

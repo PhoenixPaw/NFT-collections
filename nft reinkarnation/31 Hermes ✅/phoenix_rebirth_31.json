@@ -1,0 +1,36 @@
+{
+  "name": "Phoenix Rebirth #31 — Hermes",
+  "description": "Hermes reborn as a Phoenix Deity of the Greek pantheon, embodying Speed • Communication • Trade.",
+  "edition": 31,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Hermes"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Greek"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Speed • Communication • Trade"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

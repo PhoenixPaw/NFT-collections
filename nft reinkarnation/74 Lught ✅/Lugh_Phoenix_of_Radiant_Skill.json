@@ -1,0 +1,87 @@
+{
+    "name": "Lugh, Phoenix of Radiant Skill",
+    "series": "88 Reincarnations of the Phoenix",
+    "edition": 1,
+    "token_id": 71,
+    "description": "Forged at the edge of sun and steel, Lugh rises as the avian sovereign of craft and war \u2014 every line of his body marked by red Celtic spirals pulsing with inner golden light. His spear Gae Assail is not merely a weapon but the axis through which he channels precision, discipline, and mastery sharp enough to pierce any darkness.\n\nBehind him burns a crown of solar fire against the void, yet he alone stands as the source of order and radiance. In his measured stride there is no doubt \u2014 only perfected skill and divine responsibility in every strike.",
+    "image": "ipfs://REPLACE_WITH_LUGH_IMAGE_CID",
+    "external_url": "https://phoenixpaw.io/",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Celtic"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Lugh"
+        },
+        {
+            "trait_type": "Reincarnation Form",
+            "value": "Anthropomorphic Phoenix Deity"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "God of Light, Skill and War"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Sun / Light"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Athletic avian physique with metallic feathers (bronze, gold, steel)"
+        },
+        {
+            "trait_type": "Markings",
+            "value": "Glowing red Celtic spiral tattoos across chest and arms"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Phoenix visage with flowing silver-golden hair"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Four clawed fingers on each hand, gripping spear firmly"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Broad metallic wings with golden highlights"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Molten gold feather stream"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green and bronze tartan wrap with Celtic knot patterns"
+        },
+        {
+            "trait_type": "Armor",
+            "value": "Bronze armbands and sun-disc pauldron with spiral engravings"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Gae Assail \u2014 divine spear with runic shaft and white-gold tip"
+        },
+        {
+            "trait_type": "Halo",
+            "value": "Radiant solar corona behind the head"
+        },
+        {
+            "trait_type": "Pose",
+            "value": "Dynamic, spear held diagonally in controlled readiness"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Golden rimlight and rune glow against black void"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pure black with lower area reserved for banner"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

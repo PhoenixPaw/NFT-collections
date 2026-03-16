@@ -1,0 +1,36 @@
+{
+  "name": "Phoenix Rebirth #26 — Athena",
+  "description": "Athena reborn as a Phoenix Deity of the Greek pantheon, embodying Wisdom • Strategy • Warfare.",
+  "edition": 26,
+  "external_url": "https://phoenixpaw.io",
+  "telegram_channel": "https://t.me/PHXPW",
+  "telegram_chat": "https://t.me/phxpwchat",
+  "network": "TON",
+  "collection": "Phoenix Rebirth",
+  "attributes": [
+    {
+      "trait_type": "Reincarnation",
+      "value": "Athena"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Greek"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Wisdom • Strategy • Warfare"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Deity"
+    },
+    {
+      "trait_type": "Aspect",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "-"
+    }
+  ]
+}

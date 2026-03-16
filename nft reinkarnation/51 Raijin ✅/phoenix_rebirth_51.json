@@ -1,0 +1,28 @@
+{
+    "name": "Phoenix Rebirth #51 — Raijin",
+    "description": "Raijin — the Shinto God of Thunder and Storm. Master of celestial drums and roaring lightning, he commands the fury of the skies. In Phoenix incarnation he embodies electrified rebirth — stormfire, power, and divine percussion resonating through the heavens.",
+    "edition": 51,
+    "series": "88 Reincarnations of the Phoenix",
+    "attributes": [
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Deity",
+            "value": "Raijin"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "-"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Thunder & Stormfire"
+        },
+        {
+            "trait_type": "Domain",
+            "value": "Lightning, Drums & Tempest"
+        }
+    ]
+}

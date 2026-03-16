@@ -1,0 +1,76 @@
+{
+  "name": "Dagda, Phoenix of Life and Death #75",
+  "description": "In the silent reaches of the Celtic Otherworld, where harvest fields fade into shadowed barrows, Dagda rises as a colossal phoenix wrought from emerald feather and aged bronze. His beaked visage glows with the patience of an all-father who has watched countless winters pass and countless springs return, each plume on his massive frame etched with the memory of feasts, oaths and forgotten songs.\n\nIn one taloned hand he lifts his great club, heavy as fate itself: one end can end a life with a single stroke, the other can call it back from the brink. In the opposite hand hangs the cauldron of renewal, its depths shimmering with visions of ripening grain, falling leaves, white bones and newborn light. Around him there is no landscape, no sky—only perfect darkness that turns his presence into the lone axis between abundance and decay.\n\nDagda, Phoenix of Life and Death, stands as the slow, inevitable rhythm of the Celtic world made feather and flame: the feast and the famine, the blessing and the ending, guardian of a cycle that neither hastens nor delays, but always returns.",
+  "image": "ipfs://TODO_DAGDA_75",
+  "collection": "88 Reincarnations of the Phoenix",
+  "token_id": 75,
+  "nfc": true,
+  "aspect_ratio": "9:16",
+  "background": "pure black",
+  "banner_placeholder": true,
+  "pantheon": "Celtic",
+  "deity": "Dagda",
+  "title": "Phoenix of Life and Death",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "88 Reincarnations of the Phoenix"
+    },
+    {
+      "trait_type": "Pantheon",
+      "value": "Celtic"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Dagda"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Phoenix of Life and Death"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Anthropomorphic Phoenix"
+    },
+    {
+      "trait_type": "Role",
+      "value": "All-Father, Druid King"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Harvest, Earth, Spirit"
+    },
+    {
+      "trait_type": "Primary Artifact",
+      "value": "Life-and-Death Club"
+    },
+    {
+      "trait_type": "Secondary Artifact",
+      "value": "Cauldron of Renewal"
+    },
+    {
+      "trait_type": "Armor Style",
+      "value": "Celtic Knotwork"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Emerald, Bronze, Aged Gold"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Emerald Feathered Wings"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "4 talons per hand"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Reserved Lower 10-15%"
+    }
+  ]
+}

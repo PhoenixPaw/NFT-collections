@@ -1,0 +1,43 @@
+{
+    "name": "Tsukuyomi — Phoenix Reincarnation of the Moon",
+    "description": "Tsukuyomi, the lunar deity of Japanese mythology, reborn in the Phoenix Paw universe as a cosmic guardian. Draped in celestial robes embroidered with golden phoenixes, he stands with a curved katana and ceremonial fan, his glowing red eyes radiating the eternal illusion of Infinite Tsukuyomi. His dark wings spread wide under the cold light of the moon, surrounded by quiet stardust — a symbol of silent power and cosmic order.",
+    "image": "ipfs://YOUR_IMAGE_CID_HERE",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Deity"
+        },
+        {
+            "trait_type": "Pantheon",
+            "value": "Japanese"
+        },
+        {
+            "trait_type": "Form",
+            "value": "Phoenix Reincarnation"
+        },
+        {
+            "trait_type": "Role",
+            "value": "Moon God"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Katana and Folding Fan"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Infinite Tsukuyomi"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void with Lunar Aura"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Phoenix Paw – Mythos Guardians"
+        }
+    ]
+}

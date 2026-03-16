@@ -1,0 +1,87 @@
+{
+  "name": "Chang\u2019e, Prime Phoenix of the Blood Moon",
+  "series": "88 Reincarnations of the Phoenix",
+  "edition": 1,
+  "token_id": 65,
+  "description": "When the eclipse swallowed heaven\u2019s light, Chang\u2019e shed her immortal shell and was reborn as the Prime Phoenix \u2014 half dragon, half goddess, the eternal mirror of the moon\u2019s fury. Her ascent marked the turning of cycles: a hymn of rebirth painted in crimson and silver.\n\nThrough the silence of the void she rises, wings like silk blades of light, her hair flowing in black lunar fire with a single silver strand glinting beneath the dying moon. Upon her chest, the lunar crystal burns with red reflection \u2014 the heart of a star that forgot mercy. And in that moment between shadow and dawn, Chang\u2019e becomes not a goddess of peace, but the echo of celestial balance itself.",
+  "image": "ipfs://REPLACE_WITH_CHANG_E_IMAGE_CID",
+  "external_url": "https://phoenixpaw.io/",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Chinese"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Chang\u2019e"
+    },
+    {
+      "trait_type": "Reincarnation Form",
+      "value": "Prime Phoenix (Dragon-Avian Hybrid)"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Lunar Goddess of Eclipse"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Moon / Fire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Porcelain-white with internal lunar glow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon-phoenix hybrid, elongated and divine"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long black flowing hair with single silver-lunar strand"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Silver-white with red reflections"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Molten feather ribbons fading from red to white"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Ceremonial dress gradient from crimson to lunar white"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Silver ornaments with lunar runes"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Glowing lunar sigil on forehead"
+    },
+    {
+      "trait_type": "Artifact",
+      "value": "Lunar crystal on chest reflecting the blood moon"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Mixed lunar white and eclipse red glow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure black void with blood-red moon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Graceful ascent with extended arms"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Four clawed fingers on each hand"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

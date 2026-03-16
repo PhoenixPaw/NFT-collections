@@ -1,0 +1,76 @@
+{
+  "name": "Saraswati, Phoenix of Sacred Knowledge",
+  "token_id": 60,
+  "collection": "88 Reincarnations of the Phoenix",
+  "pantheon": "Indian",
+  "deity": "Saraswati",
+  "title": "Phoenix of Sacred Knowledge",
+  "description": "This NFT portrays Saraswati, goddess of wisdom, speech, and the arts, reimagined as a phoenix whose music gives form to thought. Sapphire and moon\u2011silver plumage with lilac and pearlescent gradients; flowing robes in cold cinematic light. She plays a traditional wooden veena; golden strings emit radiant sound waves and luminous notes across the void. She is the Phoenix of Sacred Knowledge \u2014 the lucid harmony that guides creation toward meaning.",
+  "form": "Anthropomorphic Phoenix Goddess (Reincarnation)",
+  "element": "Wisdom / Music / Speech",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Indian"
+    },
+    {
+      "trait_type": "Deity",
+      "value": "Saraswati"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Phoenix Reincarnation"
+    },
+    {
+      "trait_type": "Primary Materials",
+      "value": "Feathers: sapphire, silver; Instrument: sandalwood veena"
+    },
+    {
+      "trait_type": "Symbols",
+      "value": "Veena, sound waves, luminous notes"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Iridescent gradients with pearlescent tips"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pure Black"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "HDR10+ dual light (cold key, warm reflections)"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Flowing silk-like robes"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Graceful standing, playing veena"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "Golden sound waves"
+    },
+    {
+      "trait_type": "Canon Compliance",
+      "value": "Anime-realism; knees visible; no neon; no gold feathers"
+    },
+    {
+      "trait_type": "Banner Zone",
+      "value": "Yes (20%)"
+    }
+  ],
+  "visual_spec": {
+    "aspect_ratio": "1:1",
+    "resolution": "4096x4096 (min 1024x1024)",
+    "background": "Pure black",
+    "banner_zone_percent": 20,
+    "sharpness": "Ultra",
+    "contrast_profile": "HDR10+; deep blacks; clean highlights"
+  },
+  "artist": "Phoenix Paw Studio",
+  "license": "CC BY-NC-ND 4.0",
+  "external_url": "https://getgems.io/phoenixpaw"
+}
